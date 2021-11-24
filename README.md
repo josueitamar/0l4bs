@@ -1,9 +1,5 @@
 
-## 0l4bs
-
-![Screenshoot](img/xl4bs.png)
-<br>
-Cross-site scripting labs for web application security enthusiasts
+## Cross-site scripting labs for web application security enthusiasts
 
 ### List of Chall :
 <pre>
@@ -55,11 +51,5 @@ To run this image you need [docker](http://docker.com) installed. Just run the c
 ### Write Up / Articles
 
 0l4bs XSS Labs (https://tegalsec.org/0l4bs-cross-site-scripting-labs-for-web-application-security-enthusiasts/)<br>
-跨站脚本攻击实验室：0l4bs (https://zhuanlan.zhihu.com/p/108023848)<br>
 0l4bs XSS实验 (https://icssec.club/2020/02/25/0l4bs-XSS/)<br>
 Kitploit (https://www.kitploit.com/2020/02/0l4bs-cross-site-scripting-labs-for-web.html?m=0)
-
-### Support our organization by giving donations
-
-[![Foo](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/dalpan)
-  
